@@ -1,0 +1,1 @@
+1. In eq. 49 in assignment1.1__guideline_solution, why is there a change in index from ij to rs, and why do we exclude the boundary conditions here? 
